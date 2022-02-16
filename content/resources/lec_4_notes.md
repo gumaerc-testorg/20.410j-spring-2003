@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Handwritten notes for Lecture 4.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/5b410b87a982100ad33aa0c7c9e07e7f_lec_4_notes.pdf
+file: /media/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/5b410b87a982100ad33aa0c7c9e07e7f_lec_4_notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec_4_notes.pdf
 uid: 5b410b87-a982-100a-d33a-a0c7c9e07e7f

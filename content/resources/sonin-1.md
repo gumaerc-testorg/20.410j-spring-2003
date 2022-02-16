@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/7b7851bf008ed305b1aabb603016341e_sonin.pdf
+file: /media/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/7b7851bf008ed305b1aabb603016341e_sonin.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: sonin.pdf
 uid: 7b7851bf-008e-d305-b1aa-bb603016341e

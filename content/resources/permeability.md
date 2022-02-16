@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Supplementary notes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/1dce5094884313041f8874adaf858ed0_permeability.pdf
+file: /media/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/1dce5094884313041f8874adaf858ed0_permeability.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: permeability.pdf
 uid: 1dce5094-8843-1304-1f88-74adaf858ed0
