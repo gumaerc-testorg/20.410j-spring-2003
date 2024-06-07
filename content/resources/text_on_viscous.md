@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplementary notes.
 file: /courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/6bd544ec3d642328bc69bd696feec9cd_text_on_viscous.pdf
+file_size: 150202
 file_type: application/pdf
 learning_resource_types:
 - Readings
