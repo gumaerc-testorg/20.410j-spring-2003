@@ -2,6 +2,7 @@
 content_type: resource
 description: Handwritten notes for Lecture 11.
 file: /courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/57d7b04a24bf13da1a36522215260a6b_lec_11_notes.pdf
+file_size: 110372
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

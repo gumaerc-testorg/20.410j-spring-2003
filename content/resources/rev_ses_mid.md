@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/262e7bbdd3cacf750d2795b7519305c4_rev_ses_mid.pdf
+file_size: 181577
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
