@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplementary notes.
 file: /courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/1dce5094884313041f8874adaf858ed0_permeability.pdf
+file_size: 98730
 file_type: application/pdf
 learning_resource_types:
 - Readings
