@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial presentation.
-file: /courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/243337e235752ef622a0c68ff3bf9a52_tutorial_stat.pdf
+file: /ol-ocw-studio-app/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/243337e235752ef622a0c68ff3bf9a52_tutorial_stat.pdf
 file_size: 384850
 file_type: application/pdf
 learning_resource_types:
