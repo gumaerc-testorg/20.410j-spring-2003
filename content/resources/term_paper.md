@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This assignment is to formulate plans for the term paper.
-file: /ol-ocw-studio-app/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/6d0faef5ceede2887e77f6f0a18291dc_term_paper.pdf
+file: /courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/6d0faef5ceede2887e77f6f0a18291dc_term_paper.pdf
 file_size: 101790
 file_type: application/pdf
 learning_resource_types:
