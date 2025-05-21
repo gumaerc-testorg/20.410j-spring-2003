@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation.
-file: /ol-ocw-studio-app/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/5637ad7ba4f35d9fa62c38711d29f1c3_lec_2_slides.pdf
+file: /courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/5637ad7ba4f35d9fa62c38711d29f1c3_lec_2_slides.pdf
 file_size: 141016
 file_type: application/pdf
 learning_resource_types:
