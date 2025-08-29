@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/f3e87f93ecceb2c81904d7555f6addc4_ps_7.pdf
+file: /ol-ocw-studio-app/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/f3e87f93ecceb2c81904d7555f6addc4_ps_7.pdf
 file_size: 297753
 file_type: application/pdf
 learning_resource_types:
