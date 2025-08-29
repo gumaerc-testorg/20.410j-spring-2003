@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/7076680e9aeb25109bd7b36a880ed3d1_ps5_solution.pdf
+file: /ol-ocw-studio-app/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/7076680e9aeb25109bd7b36a880ed3d1_ps5_solution.pdf
 file_size: 171700
 file_type: application/pdf
 learning_resource_types:

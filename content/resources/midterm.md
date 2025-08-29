@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz problems.
-file: /courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/2e553ebd4ef475742915c53bca16c5e7_midterm.pdf
+file: /ol-ocw-studio-app/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/2e553ebd4ef475742915c53bca16c5e7_midterm.pdf
 file_size: 176076
 file_type: application/pdf
 learning_resource_types:
